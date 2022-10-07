@@ -4,7 +4,7 @@ public class HelloWorld {
         some
         codes
         for
-        loginpage
+        landingpage
         */
 
     }
