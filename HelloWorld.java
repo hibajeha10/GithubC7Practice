@@ -1,10 +1,10 @@
 public class HelloWorld {
     public static void main(String[] args) {
         /*
-        some
-        codes
-        for
-        landingpage
+       random
+       codes
+       to 
+       test
         */
 
     }
